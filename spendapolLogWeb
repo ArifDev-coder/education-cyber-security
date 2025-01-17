@@ -1,0 +1,123 @@
+WhatWeb report for http://smpn2gempol.sch.id
+Status    : 403 Forbidden
+Title     : ,403 Forbidden
+IP        : 153.92.13.24
+Country   : GERMANY, DE
+
+Summary   : HTML5, HTTPServer[LiteSpeed], LiteSpeed, PoweredBy[LiteSpeed], Strict-Transport-Security[max-age=31536000; includeSubDomains; preload], UncommonHeaders[platform,x-content-type-options], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ HTML5 ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : LiteSpeed (from server string)
+
+[ LiteSpeed ]
+	LiteSpeed web server, which is able to read Apache 
+	configuration directly and used together with web hosting 
+	control panels by replacing Apache 
+
+
+[ PoweredBy ]
+	This plugin identifies instances of 'Powered by x' text and 
+	attempts to extract the value for x. 
+
+	String       : LiteSpeed
+
+[ Strict-Transport-Security ]
+	Strict-Transport-Security is an HTTP header that restricts 
+	a web browser from accessing a website without the security 
+	of the HTTPS protocol. 
+
+	String       : max-age=31536000; includeSubDomains; preload
+
+[ UncommonHeaders ]
+	Uncommon HTTP server headers. The blacklist includes all 
+	the standard headers and many non standard but common ones. 
+	Interesting but fairly common headers should have their own 
+	plugins, eg. x-powered-by, server and x-aspnet-version. 
+	Info about headers can be found at www.http-stats.com 
+
+	String       : platform,x-content-type-options (from headers)
+
+[ X-XSS-Protection ]
+	This plugin retrieves the X-XSS-Protection value from the 
+	HTTP header. - More Info: 
+	http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+	aspx
+
+	String       : WhatWeb report for http://smpn2gempol.sch.id
+Status    : 403 Forbidden
+Title     : ,403 Forbidden
+IP        : 153.92.13.24
+Country   : GERMANY, DE
+
+Summary   : HTML5, HTTPServer[LiteSpeed], LiteSpeed, PoweredBy[LiteSpeed], Strict-Transport-Security[max-age=31536000; includeSubDomains; preload], UncommonHeaders[platform,x-content-type-options], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ HTML5 ]
+	HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+	HTTP server header string. This plugin also attempts to 
+	identify the operating system from the server header. 
+
+	String       : LiteSpeed (from server string)
+
+[ LiteSpeed ]
+	LiteSpeed web server, which is able to read Apache 
+	configuration directly and used together with web hosting 
+	control panels by replacing Apache 
+
+
+[ PoweredBy ]
+	This plugin identifies instances of 'Powered by x' text and 
+	attempts to extract the value for x. 
+
+	String       : LiteSpeed
+
+[ Strict-Transport-Security ]
+	Strict-Transport-Security is an HTTP header that restricts 
+	a web browser from accessing a website without the security 
+	of the HTTPS protocol. 
+
+	String       : max-age=31536000; includeSubDomains; preload
+
+[ UncommonHeaders ]
+	Uncommon HTTP server headers. The blacklist includes all 
+	the standard headers and many non standard but common ones. 
+	Interesting but fairly common headers should have their own 
+	plugins, eg. x-powered-by, server and x-aspnet-version. 
+	Info about headers can be found at www.http-stats.com 
+
+	String       : platform,x-content-type-options (from headers)
+
+[ X-XSS-Protection ]
+	This plugin retrieves the X-XSS-Protection value from the 
+	HTTP header. - More Info: 
+	http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+	aspx
+
+	String       : 1; mode=block
+
+HTTP Headers:
+	HTTP/1.1 403 Forbidden
+	Connection: close
+	cache-control: private, no-cache, no-store, must-revalidate, max-age=0
+	pragma: no-cache
+	content-type: text/html
+	content-length: 1242
+	date: Mon, 13 Jan 2025 14:16:08 GMT
+	server: LiteSpeed
+	platform: hostinger
+	strict-transport-security: max-age=31536000; includeSubDomains; preload
+	x-xss-protection: 1; mode=block
+	x-content-type-options: nosniff
+	vary: User-Agent
+	
